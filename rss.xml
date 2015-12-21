@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[felipesanchez]]></title>
+        <description><![CDATA[felipesanchez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 17:58:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visita a la Villa]]></title>
+            <description><![CDATA[<article><h1>Visita a la Villa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d73dd706fc01931349698ce3608d9c67baaecd1c.jpg"></article>]]></description>
+            <link>undefinedvisita-a-la-villa/index.html</link>
+            <guid isPermaLink="false">ff138d27-4e49-49aa-a3d9-0aaa13ccd557</guid>
+            <pubDate>Mon, 21 Dec 2015 17:58:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
